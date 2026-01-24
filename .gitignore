@@ -6,11 +6,7 @@
 *.iml
 
 # Videos (NIEMALS committen)
-videos/
-*.mp4
-*.mov
-*.avi
-*.mkv
+
 
 # Logs / temp
 *.log
